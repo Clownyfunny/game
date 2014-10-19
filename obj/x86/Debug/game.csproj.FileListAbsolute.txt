@@ -1,0 +1,6 @@
+C:\Users\Clowny\Documents\Projects\game\obj\x86\Debug\game.csprojResolveAssemblyReference.cache
+C:\Users\Clowny\Documents\Projects\game\bin\Debug\Game.exe
+C:\Users\Clowny\Documents\Projects\game\bin\Debug\Game.pdb
+C:\Users\Clowny\Documents\Projects\game\obj\x86\Debug\Game.exe
+C:\Users\Clowny\Documents\Projects\game\obj\x86\Debug\Game.pdb
+C:\Users\Clowny\Documents\Projects\game\bin\Debug\System.Linq.Dynamic.dll
